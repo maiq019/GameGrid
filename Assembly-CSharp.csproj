@@ -44,6 +44,8 @@
      <Compile Include="Assets\Scripts\Grid.cs" />
      <Compile Include="Assets\Scripts\Testing.cs" />
      <Compile Include="Assets\Scripts\Utils\UtilsClass.cs" />
+     <Compile Include="Assets\Scripts\Pathfinding\Pathfinding.cs" />
+     <Compile Include="Assets\Scripts\Pathfinding\PathNode.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
